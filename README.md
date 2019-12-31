@@ -11,6 +11,8 @@ Bom, se voce nao sabe do que estou falando vou te explicar.
 
 O [Teclado mecanico, Motospeed CK62](https://www.motospeedbrasil.com.br/ck62), é um excelente teclado, porém o ponto negativo dele é que para podermos utlizar algumas teclas como as de direcao, é necessario que vc segure o <code>FN + 3</code> por cerca de 5 segundos mais ou menos até que o led do botao apague e acenda novamente, a partir dai voce ja pode utilizar as teclas de direcao. O mesmo acontece para: delete, home, end e os botoes do F1 até F12, para quem esta programando fica muito chato.
 
+## Importante
+Se voce utiliza o sistema operacional Windows, baixe o AutoHotKey e [Utilize este script](https://gist.github.com/eduardomartines/371b790d1c102bccca6db9a25ad2b464), pois dessa forma nao será util, pois é detinado para usuarios do Linux.
 
 ## Solucao
 Depois de muita pesquisa, encontrei programa chamado AutoKey, ele é utilizado para criar atalhos de teclados e atalhos de textos, quem já utiliza alguns snippets no vscode para completar codigos sabe bem como isso funciona. 
