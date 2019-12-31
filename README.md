@@ -9,7 +9,7 @@ Se voce chegou ate aqui acredito que voce encontrou alguns problemas com as tecl
 
 Bom, se voce nao sabe do que estou falando vou te explicar.
 
-O Teclado mecanico, Motospeed CK62, é um excelente teclado, porém o ponto negativo dele é que para podermos utlizar algumas teclas como as de direcao, é necessario que vc segure o <code>FN + 3</code> por cerca de 5 segundos mais ou menos até que o led do botao apague e acenda novamente, a partir dai voce ja pode utilizar as teclas de direcao. O mesmo acontece para: delete, home, end e os botoes do F1 até F12, para quem esta programando fica muito chato.
+O [Teclado mecanico, Motospeed CK62](https://www.motospeedbrasil.com.br/ck62), é um excelente teclado, porém o ponto negativo dele é que para podermos utlizar algumas teclas como as de direcao, é necessario que vc segure o <code>FN + 3</code> por cerca de 5 segundos mais ou menos até que o led do botao apague e acenda novamente, a partir dai voce ja pode utilizar as teclas de direcao. O mesmo acontece para: delete, home, end e os botoes do F1 até F12, para quem esta programando fica muito chato.
 
 
 ## Solucao
